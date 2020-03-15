@@ -4,6 +4,8 @@
 マグさんを並べてかわいくオセロをしよう！がコンセプト
 
 注意：マグさんはこのゲームのイメージキャラクターです．
+
+![magjava](https://user-images.githubusercontent.com/58961986/76704142-42750f80-671a-11ea-9dee-9a93e6fffcdb.jpg)
  
 # Features
  
